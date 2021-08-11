@@ -1,2 +1,0 @@
-# Inicio
-Nuevo en GitHub
